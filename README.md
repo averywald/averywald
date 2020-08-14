@@ -1,4 +1,8 @@
-# Hey there 👋
-## I'm Avery Wald. I'm a Student Software Engineer who likes working with NodeJS, TypeScript, Swift and all things PWA
+## Hey 👋
+## I'm Avery
 
-## Check out my repos below ⬇️
+### I'm a Student Software Engineer and I like to create cool, useful stuff.
+
+### Right now I really enjoy using Node, TypeScript, Swift and C# to do just that.
+
+## Check out what I'm working on here and there ⬇️
