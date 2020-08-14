@@ -1,6 +1,6 @@
 ## Hey 👋 I'm Avery
 
-```bash
+```ShellSession
 averywald@github:~$ whoami
 Im a Student Software Engineer and I like to create cool, useful stuff.
 
